@@ -10,3 +10,13 @@
 * Another form of neighborhood autoencoder
 * Interesting but a little bit weird 
 
+
+
+
+
+
+
+# Hierarchical Embedding
+
+#### [Galaxy Network Embedding: A Hierarchical Community Structure Preserving Approach](https://www.ijcai.org/proceedings/2018/0287.pdf)
+
